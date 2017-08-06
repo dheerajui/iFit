@@ -8,6 +8,10 @@ for Running the application:
 
     npm install -g gulp 
 
+-> Install Bower globally
+
+    npm install -g bower     
+
 -> Install Bower dependencies
 	
 	bower install
