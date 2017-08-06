@@ -6,7 +6,11 @@ for Running the application:
 
 -> Install Gulp globally
 
-    npm install -g gulp   
+    npm install -g gulp 
+
+-> Install Bower dependencies
+	
+	bower install
 
 -> then Run the following command for running the app.
 
